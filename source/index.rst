@@ -8,7 +8,6 @@ Titre du projet (changer dans `source/index.rst`)
     :maxdepth: 2
     :caption: Table des matières
 
-    plan.md
     introduction.md
     framework.md
     installation.md
@@ -17,18 +16,3 @@ Titre du projet (changer dans `source/index.rst`)
     serveur.md
     critique.md
     references.rst
-
-
-..  toctree::
-    :maxdepth: 2
-    :caption: Tutoriel Sphinx
-
-    tutoriel-sphinx/index.rst
-
-
-..
-    Indices and tables
-    ==================
-
-    * :ref:`genindex`
-    * :ref:`search`
