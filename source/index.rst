@@ -9,7 +9,12 @@ Titre du projet (changer dans `source/index.rst`)
     :caption: Table des matières
 
     plan.md
-    presentation.md
+    introduction.md
+    framework.md
+    installation.md
+    fonctionnalite.md
+    documentation.md
+    serveur.md
     critique.md
     references.rst
 
